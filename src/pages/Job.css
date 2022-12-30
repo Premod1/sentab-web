@@ -1,0 +1,19 @@
+.job-container {
+    width: 100%;
+    height: 90vh;
+    padding: 40px;
+}
+.job-container img {
+    height: 100%;
+    object-fit: cover;
+}
+.job-container h1 {
+    font-size: 40px;
+    font-weight: bold;
+    text-align: center;
+}
+.job-container p {
+    text-align: center;
+    padding: 50px;
+    font-weight: 300;
+}

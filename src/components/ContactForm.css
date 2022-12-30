@@ -1,0 +1,12 @@
+.contact-form {
+    width: 30%;
+    margin: 50px ;
+    margin-top: 20%;
+    
+}
+
+.contact-form button {
+    display: flex;
+    width: 20%;
+    justify-content: center;
+}

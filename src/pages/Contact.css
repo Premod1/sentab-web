@@ -1,0 +1,27 @@
+.contact-container {
+    background-color: rgb(221, 252, 241);
+    width: 100%;
+    height: 90vh;
+}
+.contact-container h1 {
+    font-size: 55px;
+    text-align: center;
+    text-transform: uppercase;
+    font-family: 'Poppins', sans-serif;
+}
+.contact-container img {
+    width: 100%;
+    height: 45vh;
+    object-fit: cover;
+}
+.contact-container h5 {
+    text-align: center;
+    
+}
+.contact-container h3 {
+    text-align: center;
+    font-size: 25px;
+}
+
+    
+
